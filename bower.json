@@ -1,0 +1,21 @@
+{
+  "name": "tweet-py",
+  "authors": [
+    "brianbirir <brianbirir@gmail.com>"
+  ],
+  "description": "packages for tweet-py web app",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "semantic": "^2.2.4"
+  }
+}
